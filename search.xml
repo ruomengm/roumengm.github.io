@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>上传文章到博客</title>
+      <link href="/post/23520.html"/>
+      <url>/post/23520.html</url>
+      
+        <content type="html"><![CDATA[<p>1.在根目录调出git命令框，执行以下代码，创建“上传文章到博客.md”文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new &quot;上传文章到博客&quot;</span><br></pre></td></tr></table></figure><p>2.执行以下代码即可在本地打开博客，找到该文章</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo cl &amp;&amp; hexo g  &amp;&amp; hexo s</span><br></pre></td></tr></table></figure><p>3.找到“上传文章到博客.md”文件进行编辑</p><p>4.执行以下代码上传到GitHub上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo cl &amp;&amp; hexo g  &amp;&amp; hexo s</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于表单提交中button按钮默认事件覆盖了js点击事件问题</title>
       <link href="/post/50652.html"/>
       <url>/post/50652.html</url>
