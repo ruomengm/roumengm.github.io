@@ -29,6 +29,31 @@
     
     
     <entry>
+      <title>Ubuntu系统下载与安装教程</title>
+      <link href="/post/14885.html"/>
+      <url>/post/14885.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="Ubuntu系统的下载"><a href="#Ubuntu系统的下载" class="headerlink" title="Ubuntu系统的下载"></a>Ubuntu系统的下载</h2><p>清华大学开源网站镜像站网址：<a href="https://mirrors.tuna.tsinghua.edu.cn/">清华大学开源软件镜像站 | Tsinghua Open Source Mirror</a></p><p>进入网站搜索Ubuntu</p><p><img src="/resource_img/Ubuntu1.png" alt="Ubuntu1"></p><p><img src="/resource_img/Ubuntu2.png" alt="Ubuntu2"></p><p><img src="/resource_img/Ubuntu3.png" alt="Ubuntu3"></p><p>点击上方红色框框里的蓝色字体下载</p><p>或者直接点击该超链接“<a href="https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/22.04.2/ubuntu-22.04.2-desktop-amd64.iso">ubuntu-22.04.2-desktop-amd64.iso</a>”即可下载</p><h2 id="Ubuntu系统的安装"><a href="#Ubuntu系统的安装" class="headerlink" title="Ubuntu系统的安装"></a>Ubuntu系统的安装</h2><p>安装好虚拟机后打开，点击创建新的虚拟机</p><p><img src="/resource_img/Ubuntu4.png" alt="Ubuntu4"></p><p><img src="/resource_img/Ubuntu5.png" alt="Ubuntu5"></p><p><img src="/resource_img/Ubuntu6.png" alt="Ubuntu6"></p><p><img src="/resource_img/Ubuntu7.png" alt="Ubuntu7"></p><p><img src="/resource_img/Ubuntu8.png" alt="Ubuntu8"></p><p><img src="/resource_img/Ubuntu9.png" alt="Ubuntu9"></p><p><img src="/resource_img/Ubuntu10.png" alt="Ubuntu10"></p><p>点击完成后开启虚拟机</p><p><img src="/resource_img/Ubuntu11.png" alt="Ubuntu11"></p><p><img src="/resource_img/Ubuntu12.png" alt="Ubuntu12"></p><p><img src="/resource_img/Ubuntu13.png" alt="Ubuntu13"></p><p><img src="/resource_img/Ubuntu14.png" alt="Ubuntu14"></p><p><img src="/resource_img/Ubuntu15.png" alt="Ubuntu15"></p><p><img src="/resource_img/Ubuntu16.png" alt="Ubuntu16"></p><p><img src="/resource_img/Ubuntu17.png" alt="Ubuntu17"></p><p>到这里就可以使用了</p><h2 id="设置中文环境"><a href="#设置中文环境" class="headerlink" title="设置中文环境"></a>设置中文环境</h2><p><img src="/resource_img/Ubuntu18.png" alt="Ubuntu18"></p><p><img src="/resource_img/Ubuntu19.png" alt="Ubuntu19"></p><p><img src="/resource_img/Ubuntu20.png" alt="Ubuntu20"></p><p><img src="/resource_img/Ubuntu21.png" alt="Ubuntu21"></p><p>重启后再次进入设置</p><p><img src="/resource_img/Ubuntu22.png" alt="Ubuntu22"></p><p><img src="/resource_img/Ubuntu23.png" alt="Ubuntu23"></p><p>安装完成后重启就设置完成了</p><h2 id="安装中文输入法"><a href="#安装中文输入法" class="headerlink" title="安装中文输入法"></a>安装中文输入法</h2><p>Ctrl+Alt+T打开终端，输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt-get install ibus-pinyin</span><br></pre></td></tr></table></figure><p>安装完成后，进入“设置”，点击“键盘”，添加“输入源”</p><p><img src="/resource_img/Ubuntu24.png" alt="Ubuntu24"></p><p><img src="/resource_img/Ubuntu25.png" alt="Ubuntu25"></p><p><img src="/resource_img/Ubuntu26.png" alt="Ubuntu26"></p><p>到这就安装完成了，中英文输入法快捷键“shift”&#x2F;“windows+space”</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Ubuntu </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>虚拟机VMware下载与安装教程</title>
       <link href="/post/3095.html"/>
       <url>/post/3095.html</url>
