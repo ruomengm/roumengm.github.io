@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>上传文章到博客</title>
-      <link href="/post/23520.html"/>
-      <url>/post/23520.html</url>
-      
-        <content type="html"><![CDATA[<p>1.在根目录调出git命令框，执行以下代码，创建“上传文章到博客.md”文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new &quot;上传文章到博客&quot;</span><br></pre></td></tr></table></figure><p>2.执行以下代码即可在本地打开博客</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo cl &amp;&amp; hexo g  &amp;&amp; hexo s</span><br></pre></td></tr></table></figure><p>3.找到“上传文章到博客.md”文件进行编辑</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">title: 上传文章到博客</span><br><span class="line">abbrlink: 23520</span><br><span class="line">date: 2023-07-22 20:16:07</span><br><span class="line">tags:</span><br><span class="line">  - </span><br><span class="line">categories: </span><br><span class="line">top_img: /img/11.jpg</span><br><span class="line">cover: /img/11.jpg</span><br><span class="line">description: 上传文章到博客</span><br><span class="line"></span><br><span class="line">文章内容</span><br></pre></td></tr></table></figure><p>4.执行以下代码上传到GitHub上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo cl &amp;&amp; hexo g  &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于表单提交中button按钮默认事件覆盖了js点击事件问题</title>
       <link href="/post/50652.html"/>
       <url>/post/50652.html</url>
@@ -36,6 +23,44 @@
             <tag> bug </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>虚拟机VMware下载与安装教程</title>
+      <link href="/post/3095.html"/>
+      <url>/post/3095.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="虚拟机VMware的下载"><a href="#虚拟机VMware的下载" class="headerlink" title="虚拟机VMware的下载"></a>虚拟机VMware的下载</h2><p>官网下载地址：<a href="https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html">下载 VMware Workstation Pro | CN</a></p><p>往下翻，找到并点击“立即下载”</p><p><img src="/resource_img/VMware1.png" alt="VMware1"></p><h2 id="虚拟机VMware的安装"><a href="#虚拟机VMware的安装" class="headerlink" title="虚拟机VMware的安装"></a>虚拟机VMware的安装</h2><p>点击下载好的文件开始安装</p><p><img src="/resource_img/VMware2.png" alt="VMware2"></p><p><img src="/resource_img/VMware3.png" alt="VMware3"></p><p><img src="/resource_img/VMware4.png" alt="VMware4"></p><p><img src="/resource_img/VMware5.png" alt="VMware5"></p><p><img src="/resource_img/VMware6.png" alt="VMware6"></p><p><img src="/resource_img/VMware7.png" alt="VMware7"></p><p><img src="/resource_img/VMware8.png" alt="VMware8"></p><p>安装完成后的第一次启动会需要许可证密钥。（百度搜索许可证密钥即可）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> VMware </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>上传文章到博客</title>
+      <link href="/post/23520.html"/>
+      <url>/post/23520.html</url>
+      
+        <content type="html"><![CDATA[<p>1.在根目录调出git命令框，执行以下代码，创建“上传文章到博客.md”文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new &quot;上传文章到博客&quot;</span><br></pre></td></tr></table></figure><p>2.执行以下代码即可在本地打开博客</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo cl &amp;&amp; hexo g  &amp;&amp; hexo s</span><br></pre></td></tr></table></figure><p>3.找到“上传文章到博客.md”文件进行编辑</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">title: 上传文章到博客</span><br><span class="line">abbrlink: 23520</span><br><span class="line">date: 2023-07-22 20:16:07</span><br><span class="line">tags:</span><br><span class="line">  - </span><br><span class="line">categories: </span><br><span class="line">top_img: /img/11.jpg</span><br><span class="line">cover: /img/11.jpg</span><br><span class="line">description: 上传文章到博客</span><br><span class="line"></span><br><span class="line">文章内容</span><br></pre></td></tr></table></figure><p>4.执行以下代码上传到GitHub上</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo cl &amp;&amp; hexo g  &amp;&amp; hexo d</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
       
     </entry>
     
